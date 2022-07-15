@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/bhavyablogs/static/css/main.dc029f7a.css",
+    "main.js": "/bhavyablogs/static/js/main.43f927eb.js",
+    "index.html": "/bhavyablogs/index.html",
+    "main.dc029f7a.css.map": "/bhavyablogs/static/css/main.dc029f7a.css.map",
+    "main.43f927eb.js.map": "/bhavyablogs/static/js/main.43f927eb.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.dc029f7a.css",
+    "static/js/main.43f927eb.js"
+  ]
+}
